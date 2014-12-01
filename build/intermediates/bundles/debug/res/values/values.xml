@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">LruCacheWrapper</string>
+
+</resources>

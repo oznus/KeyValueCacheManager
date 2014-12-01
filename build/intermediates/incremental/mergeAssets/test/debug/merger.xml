@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/src/androidTest/assets" />
+    </dataSet>
+
+</merger>

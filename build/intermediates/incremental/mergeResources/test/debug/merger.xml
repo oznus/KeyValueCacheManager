@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res" >
+            <file
+                name="ic_launcher"
+                path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/intermediates/bundles/debug/res/values/values.xml"
+                qualifiers="" >
+                <string name="app_name" >LruCacheWrapper
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/src/androidTest/res" />
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/generated/res/rs/test/debug" />
+        <source path="/Volumes/fiverr_dev/fiverr_mobile_android/lrucache_wrapper/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>
